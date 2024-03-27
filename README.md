@@ -1,3 +1,3 @@
 # my-first-website
 
-# Today I learned git!!
+# Today I'm learning git!!
