@@ -24,3 +24,7 @@ button {
     font-family: "Poppins", sans-serif;
     cursor:pointer;
 }
+
+::selection {
+    background-color: rgba(95, 95, 95, 0.307);
+}
