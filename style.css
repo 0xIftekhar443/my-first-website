@@ -13,7 +13,9 @@ input {
     border: 2px solid rebeccapurple;
     border-radius: 9px;
     height: 25px;
-    width: 80vh;
+    width: 80vh; 
+    text-align: center;
+    font-family: "Poppins" , sans-serif;
 }
 
 button {
