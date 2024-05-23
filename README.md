@@ -1,3 +1,2 @@
-# my-first-website
 
-# Today I'm learning git!!
+<h1 align="center">HI THIS IS KIDDO WEBSITE</h1>
